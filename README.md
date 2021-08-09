@@ -1,11 +1,6 @@
-## Ola, Eu me chamo Nilo Marcos.
-- 
-- 👋 Hi, there
-- 💻 Hoje trabalho com Front-end
-- 💻 Estudando ReactJS/Native e Js
-- 🌱 I’m currently learning React Native and JavaScript.
-- 💞️ I’m looking to collaborate on aplicativos.
-- 📫 How to reach me https://www.linkedin.com/in/nilo-marcos-freitas-126536193/.
+## Fala Brow, Me chamo Nilo Marcos. 
+
+## Desenvolvedor Front-end Jr.
 
 <div>
  <a href="https://github.com/NiloMarcos">
@@ -20,11 +15,16 @@
 </div>
   
   ##
-  
+
+ 
+ ## Vontade de aprender
  <div>
-  <p>Vontade de aprender: <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></p>
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  </div> 
 
+ ## Redes Sociais
+ 
 <div>
  <a href="https://www.linkedin.com/in/nilo-marcos-freitas-126536193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.instagram.com/nilomarcos_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
