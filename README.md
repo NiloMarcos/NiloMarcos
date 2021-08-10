@@ -1,4 +1,4 @@
-## Fala Brow, Me chamo Nilo Marcos. 
+## Fala Brow ✌. 
 
 ## Desenvolvedor Front-end Jr.
 
