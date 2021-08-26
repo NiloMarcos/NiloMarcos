@@ -1,5 +1,3 @@
-## Fala Brow ✌. 
-
 ## Desenvolvedor Front-end Jr.
 
 <div>
