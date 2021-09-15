@@ -1,4 +1,4 @@
-## Desenvolvedor Front-end Jr.
+## Desenvolvedor Front-end/Mobile Jr.
 
 <div>
  <a href="https://github.com/NiloMarcos">
