@@ -18,11 +18,11 @@
 
 <br><br>
  
- ## Vontade de aprender
+<!--  ## Vontade de aprender
  <div>
   <img align="center" alt="Nilo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Nilo-NodeJS" height="30" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
- </div> 
+ </div>  -->
 
  ## Redes Sociais
  
