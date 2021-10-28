@@ -2,8 +2,8 @@
 
 <div>
  <a href="https://github.com/NiloMarcos">
- <img height="130em" src="https://github-readme-stats.vercel.app/api?username=NiloMarcos&show_icons=true&theme=dracula"/>
- <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiloMarcos&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="250em" src="https://github-readme-stats.vercel.app/api?username=NiloMarcos&show_icons=true&theme=dracula"/>
+ <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiloMarcos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
  ## 🛠 &nbsp;Tech Stack
