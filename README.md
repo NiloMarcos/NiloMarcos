@@ -1,4 +1,4 @@
-<!-- ## Desenvolvedor Front-end/Mobile Jr.
+## Desenvolvedor Front-end/Mobile Jr.
 
 <div>
  <a href="https://github.com/NiloMarcos">
@@ -14,13 +14,13 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;<br/>
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; -->
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<!--  ## Vontade de aprender
+## Vontade de aprender
  <div>
   <img align="center" alt="Nilo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Nilo-NodeJS" height="30" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
- </div>  -->
+ </div>
 
 ## Redes Sociais
  
