@@ -1,6 +1,6 @@
 ## Hi dear, I'm Nilo Marcos 😉.
 
-🔥 Mobile Developer Jr. <br/>
+🔥 Front-end/Mobile Developer Jr <br/>
 
 <div>
  <a href="https://github.com/NiloMarcos">
