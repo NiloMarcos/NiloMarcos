@@ -1,4 +1,4 @@
-<img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo README.md">
+
 
 <p align="left">
  🖖 Olá, meu nome é Nilo Marcos. Sou <strong>Desenvolvedor Front-end Jr.</strong>.
