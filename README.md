@@ -14,9 +14,13 @@
 
 <br>
 
-[![NiloMarcos](https://github-readme-stats.vercel.app/api?username=nilomarcos&theme=dark)](https://github.com/NiloMarcos)
+<div>
 
-[![NiloMarcos](https://github-readme-stats.vercel.app/api/top-langs/?username=nilomarcos&hide=html&layout=compact&theme=dark)](https://github.com/NiloMarcos)
+  [![NiloMarcos](https://github-readme-stats.vercel.app/api/top-langs/?username=nilomarcos&hide=html&layout=compact&theme=dark)](https://github.com/NiloMarcos)
+  
+  [![NiloMarcos](https://github-readme-stats.vercel.app/api?username=nilomarcos&theme=dark)](https://github.com/NiloMarcos)
+
+</div>
 
 <br>
 
