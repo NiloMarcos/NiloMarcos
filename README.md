@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
- ☕ Habilidades: <strong>HTML, CSS, JavaScript, TyeScrit, VTEX IO, SASS, ReactJS, React Native, Styled Components.</strong>
+ ☕ Habilidades: <strong>HTML, CSS, JavaScript, TypeScript, VTEX IO, SASS, ReactJS, React Native, Styled Components.</strong>
 </p>
 
 <p align="left">
