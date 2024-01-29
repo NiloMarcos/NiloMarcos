@@ -14,7 +14,7 @@
 
 <br>
 
-<div style="display: flex; flex-direction: row">
+<div align="center">
 
   [![NiloMarcos](https://github-readme-stats.vercel.app/api/top-langs/?username=nilomarcos&hide=html&layout=compact&theme=dark)](https://github.com/NiloMarcos)
   
